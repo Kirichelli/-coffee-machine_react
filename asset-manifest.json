@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/-coffee-machine_react/static/css/main.8d7001db.css",
+    "main.js": "/-coffee-machine_react/static/js/main.c1c559b4.js",
+    "index.html": "/-coffee-machine_react/index.html",
+    "main.8d7001db.css.map": "/-coffee-machine_react/static/css/main.8d7001db.css.map",
+    "main.c1c559b4.js.map": "/-coffee-machine_react/static/js/main.c1c559b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d7001db.css",
+    "static/js/main.c1c559b4.js"
+  ]
+}
