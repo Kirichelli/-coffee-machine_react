@@ -3,7 +3,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-п
+Рецепты напитков:
+
+"Black"
+ -"Coffee"
+
+"Latte" 
+ -"Espresso",
+ -"Steamed Milk"
+
+
 
 ## Available Scripts
 
