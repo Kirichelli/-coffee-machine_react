@@ -6,9 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Рецепты напитков:
 
 "Black"
- -"Coffee"
-
+Ингридиенты:
+ "Coffee"
+ 
 "Latte" 
+ 
  -"Espresso",
  -"Steamed Milk"
 
